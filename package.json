@@ -1,0 +1,11 @@
+{
+  "name": "la_panthere",
+  "version": "1.0.0",
+  "description": "Projet 4 OC, optimisation SEO et accessibilité du site web \"La Panthère\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

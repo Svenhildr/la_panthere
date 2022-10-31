@@ -757,15 +757,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #d0490b;
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fff !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #d0490b;
   color: #ffffff !important;
 }
 
@@ -991,7 +991,8 @@ h4 {
     box-shadow: none;
   }
   .navbar-brand img {
-    max-height: 40px;
+    height: 40px;
+    width: 217px;
     width: auto;
   }
   .nav-invert .navbar-header {
